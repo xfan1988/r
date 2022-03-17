@@ -47,3 +47,12 @@ abline(v=0);abline(h=0)
 #total:808
 
 #Length of 1/4 round
+
+#Length of dry wall bottom approximation
+# (28+48)*2 = 152
+# closet: 11*2 = 22
+# bedroom wall: 3+3+4+4 = 14
+# bathroom wall: 12+12 = 24
+# total: 152+22+14+24=212; round up 10% = 234
+# 234/(8*2)=15
+
